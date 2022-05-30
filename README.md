@@ -14,7 +14,7 @@ This was a 1 week long project. Project goals included using a 3rd party API to 
 I wanted to build a website that allowed users to pull data from the Poke API based on which image they clicked. I started this process by creating the markup
 and styling, then adding javascript and the api. 
 
-One of the main challenges I ran into was fetching the correct pokemon data based on which image the user selected.
+One of the main challenges I ran into was fetching the correct pokemon data based on which image the user selected. This lead me to research further into query strings.
 
 At the end of the day, the technologies implemented in this project are Javascript, Bulma, and CSS. I chose to use a CSS framework to invest more time learning about 
 3rd party APIs and not so much on styling.
