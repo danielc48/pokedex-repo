@@ -1,6 +1,6 @@
 # Pokedex Website
 
-Pokedex
+## Pokedex
 
 A website displaying 1st generation pokemon information. Built with HTML, CSS, Javascript, Bulma, and Poke Api.
 
