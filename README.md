@@ -9,6 +9,7 @@ A website displaying 1st generation pokemon information. Built with HTML, CSS, J
 
 ![Capture1](https://user-images.githubusercontent.com/86453531/171065891-f1075b51-1d18-42d5-a88d-769868a66a36.PNG)
 
+## Summary
 This was a 1 week long project. Project goals included using a 3rd party API to fetch data and familiarizing myself with documentation for new API's. 
 
 I wanted to build a website that allowed users to pull data from the Poke API based on which image they clicked. I started this process by creating the markup
